@@ -1,0 +1,25 @@
+element.style {
+}
+* {
+    margin: auto 0;
+    padding: auto 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+    background: linear-gradient(150deg, #000000, #ce7b00);
+    background-size: 120% 120%;
+}
+html {
+    color: #fff;
+    scroll-behavior: smooth;
+}
